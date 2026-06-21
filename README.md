@@ -48,7 +48,7 @@ scoop install neovim gcc ripgrep fd lazygit git FiraCode-NF
 ### Option A: I am installing from scratch
 1. Open **PowerShell**, clone this repository, and enter the folder:
    ```bash
-   git clone <your-repo-url> lazyvim
+   git clone https://github.com/bijanmurmu/lazyvim.git
    cd lazyvim
    ```
 2. Create a "symlink" (a shortcut) so Neovim knows where to find this config:
